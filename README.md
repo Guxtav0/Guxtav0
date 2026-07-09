@@ -1,7 +1,4 @@
-- 👋 Olá, eu sou o Gustavo Mariano, mas pode me chamar de "Ghost!"
-- 👀 Esse apelido veio por causa dos jogos online, meu hobby preferido! 
-- 🌱 Atualmente estou estudando para me tornar um desenvolvedor Front-End!
-- 📫 Para entrar em contato comigo é só enviar um email para: guxtavo.contato@gmail.com
+Analista de Dados com experiência em Power BI, Excel e Power Query, transformando dados em informações estratégicas para apoiar a tomada de decisões. Possuo conhecimentos em Python para análise e automação de processos, além de estar em constante evolução em SQL, BigQuery, Machine Learning e Inteligência Artificial. Tenho perfil analítico, pensamento crítico e facilidade para trabalhar em equipe, sempre buscando otimizar processos e gerar valor por meio dos dados.
 
 <!---
 Guxtav0/Guxtav0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
